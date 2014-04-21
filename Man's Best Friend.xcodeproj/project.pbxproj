@@ -21,6 +21,15 @@
 		6314B2C01903726200AD1C53 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6314B2A21903726200AD1C53 /* UIKit.framework */; };
 		6314B2C81903726200AD1C53 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6314B2C61903726200AD1C53 /* InfoPlist.strings */; };
 		6314B2CA1903726200AD1C53 /* Man_s_Best_FriendTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6314B2C91903726200AD1C53 /* Man_s_Best_FriendTests.m */; };
+		6314B2D51903743900AD1C53 /* JDDog.m in Sources */ = {isa = PBXBuildFile; fileRef = 6314B2D41903743900AD1C53 /* JDDog.m */; };
+		636561A11904CBC000BEBAAE /* Husky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 636561A01904CBC000BEBAAE /* Husky.jpg */; };
+		636561A31904CEFD00BEBAAE /* Fluffy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 636561A21904CEFD00BEBAAE /* Fluffy.jpg */; };
+		63FD046319049A5000CF772D /* St.Bernard.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 63FD046219049A5000CF772D /* St.Bernard.JPG */; };
+		63FD046719049E3500CF772D /* ItalianGreyhound.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 63FD046419049E3500CF772D /* ItalianGreyhound.jpg */; };
+		63FD046819049E3500CF772D /* JRT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 63FD046519049E3500CF772D /* JRT.jpg */; };
+		63FD046919049E3500CF772D /* BorderCollie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 63FD046619049E3500CF772D /* BorderCollie.jpg */; };
+		63FD046C1904C1AF00CF772D /* JDPuppy.m in Sources */ = {isa = PBXBuildFile; fileRef = 63FD046B1904C1AF00CF772D /* JDPuppy.m */; };
+		63FD046E1904C38F00CF772D /* Bo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 63FD046D1904C38F00CF772D /* Bo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +62,17 @@
 		6314B2C51903726200AD1C53 /* Man's Best FriendTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Man's Best FriendTests-Info.plist"; sourceTree = "<group>"; };
 		6314B2C71903726200AD1C53 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6314B2C91903726200AD1C53 /* Man_s_Best_FriendTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Man_s_Best_FriendTests.m; sourceTree = "<group>"; };
+		6314B2D31903743900AD1C53 /* JDDog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JDDog.h; path = ../JDDog.h; sourceTree = "<group>"; };
+		6314B2D41903743900AD1C53 /* JDDog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JDDog.m; path = ../JDDog.m; sourceTree = "<group>"; };
+		636561A01904CBC000BEBAAE /* Husky.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Husky.jpg; sourceTree = "<group>"; };
+		636561A21904CEFD00BEBAAE /* Fluffy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fluffy.jpg; sourceTree = "<group>"; };
+		63FD046219049A5000CF772D /* St.Bernard.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = St.Bernard.JPG; sourceTree = "<group>"; };
+		63FD046419049E3500CF772D /* ItalianGreyhound.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ItalianGreyhound.jpg; sourceTree = "<group>"; };
+		63FD046519049E3500CF772D /* JRT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JRT.jpg; sourceTree = "<group>"; };
+		63FD046619049E3500CF772D /* BorderCollie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BorderCollie.jpg; sourceTree = "<group>"; };
+		63FD046A1904C1AF00CF772D /* JDPuppy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JDPuppy.h; sourceTree = "<group>"; };
+		63FD046B1904C1AF00CF772D /* JDPuppy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JDPuppy.m; sourceTree = "<group>"; };
+		63FD046D1904C38F00CF772D /* Bo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +137,10 @@
 				6314B2B01903726200AD1C53 /* Main.storyboard */,
 				6314B2B31903726200AD1C53 /* JDViewController.h */,
 				6314B2B41903726200AD1C53 /* JDViewController.m */,
+				6314B2D31903743900AD1C53 /* JDDog.h */,
+				6314B2D41903743900AD1C53 /* JDDog.m */,
+				63FD046A1904C1AF00CF772D /* JDPuppy.h */,
+				63FD046B1904C1AF00CF772D /* JDPuppy.m */,
 				6314B2B61903726200AD1C53 /* Images.xcassets */,
 				6314B2A51903726200AD1C53 /* Supporting Files */,
 			);
@@ -126,6 +150,13 @@
 		6314B2A51903726200AD1C53 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				636561A21904CEFD00BEBAAE /* Fluffy.jpg */,
+				636561A01904CBC000BEBAAE /* Husky.jpg */,
+				63FD046D1904C38F00CF772D /* Bo.jpg */,
+				63FD046419049E3500CF772D /* ItalianGreyhound.jpg */,
+				63FD046519049E3500CF772D /* JRT.jpg */,
+				63FD046619049E3500CF772D /* BorderCollie.jpg */,
+				63FD046219049A5000CF772D /* St.Bernard.JPG */,
 				6314B2A61903726200AD1C53 /* Man's Best Friend-Info.plist */,
 				6314B2A71903726200AD1C53 /* InfoPlist.strings */,
 				6314B2AA1903726200AD1C53 /* main.m */,
@@ -229,9 +260,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63FD046919049E3500CF772D /* BorderCollie.jpg in Resources */,
+				636561A31904CEFD00BEBAAE /* Fluffy.jpg in Resources */,
+				63FD046819049E3500CF772D /* JRT.jpg in Resources */,
+				63FD046719049E3500CF772D /* ItalianGreyhound.jpg in Resources */,
+				63FD046319049A5000CF772D /* St.Bernard.JPG in Resources */,
 				6314B2B71903726200AD1C53 /* Images.xcassets in Resources */,
 				6314B2A91903726200AD1C53 /* InfoPlist.strings in Resources */,
+				63FD046E1904C38F00CF772D /* Bo.jpg in Resources */,
 				6314B2B21903726200AD1C53 /* Main.storyboard in Resources */,
+				636561A11904CBC000BEBAAE /* Husky.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +290,8 @@
 			files = (
 				6314B2AF1903726200AD1C53 /* JDAppDelegate.m in Sources */,
 				6314B2B51903726200AD1C53 /* JDViewController.m in Sources */,
+				6314B2D51903743900AD1C53 /* JDDog.m in Sources */,
+				63FD046C1904C1AF00CF772D /* JDPuppy.m in Sources */,
 				6314B2AB1903726200AD1C53 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -457,6 +497,7 @@
 				6314B2CF1903726200AD1C53 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6314B2D01903726200AD1C53 /* Build configuration list for PBXNativeTarget "Man's Best FriendTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +506,7 @@
 				6314B2D21903726200AD1C53 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
